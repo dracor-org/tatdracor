@@ -1,0 +1,2 @@
+# tatdracor
+Tatar Drama Corpus
