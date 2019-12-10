@@ -18,6 +18,7 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q78063407</idno> 
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -44,13 +45,13 @@
           <person xml:id="Nәsimә" sex="FEMALE">
             <persName>Нәсимә</persName>
           </person>
-          <person xml:id="Zәjnәp" sex="MALE">
+          <person xml:id="Zәjnәp" sex="FEMALE">
             <persName>Зәйнәп</persName>
           </person>
-          <person xml:id="Bәdigyljamal" sex="MALE">
+          <person xml:id="Bәdigyljamal" sex="FEMALE">
             <persName>Бәдигыльҗамал</persName>
           </person>
-          <person xml:id="Gөljamal" sex="MALE">
+          <person xml:id="Gөljamal" sex="FEMALE">
             <persName>Гөлҗамал</persName>
           </person>
           <person xml:id="Hәmidә" sex="FEMALE">
