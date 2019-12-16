@@ -65,12 +65,6 @@
           <person xml:id="yawçı" sex="MALE">
             <persName>Яучы</persName>
           </person>
-          <person xml:id="fatıyx_belän_äğza" sex="MALE">
-            <persName>Фатыйх белән әгъза</persName>
-          </person>
-          <person xml:id="fatıyx_häm_äğza" sex="MALE">
-            <persName>Фатыйх һәм әгъза</persName>
-          </person>
           <person xml:id="sadrıy" sex="MALE">
             <persName>Садрый</persName>
           </person>
@@ -648,7 +642,7 @@
             <speaker>Сәркатип.</speaker>
             <p>Моңа да атказмыни?</p>
           </sp>
-          <sp who="#fatıyx_belän_äğza">
+          <sp who="#fatıyx #äğza">
             <speaker>Фатыйх белән әгъза.</speaker>
             <p>Атказ, атказ!</p>
           </sp>
@@ -793,7 +787,7 @@
             <speaker>Сәркатип.</speaker>
             <p>Алай булгач, кабул итмибез, дип әйтәсезмени?</p>
           </sp>
-          <sp who="#fatıyx_häm_äğza">
+          <sp who="#fatıyx #äğza">
             <speaker>Фатыйх һәм әгъза.</speaker>
             <p>Атказ, атказ!</p>
           </sp>
