@@ -1,0 +1,1 @@
+Edited by Daniil Skorinkin and Frank Fischer. Features a handful of plays in Tatar language, provided through Tatar Electronic Library.
