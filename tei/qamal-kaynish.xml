@@ -9,7 +9,13 @@
         <title type="main" xml:lang="eng">Qayniş</title>
         <title type="sub">Пьеса 1 пәрдәдә 2 манзарада (картинада)</title>
         <title type="sub" xml:lang="eng">Play in One Act and Two Scenes (Pictures)</title>
-        <author key="wikidata:Q2497099">Галиәсгар Камал</author>
+        <author>
+          <persName>
+            <forename>Галиәсгар</forename>
+            <surname>Камал</surname>
+          </persName>
+          <idno type="wikidata">Q2497099</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
