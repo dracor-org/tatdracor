@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+agingstaging<?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="tat">
   <teiHeader>
@@ -13,6 +13,10 @@
           <persName>
             <forename>Галиәсгар</forename>
             <surname>Камал</surname>
+          </persName>
+          <persName xml:lang="eng">
+            <forename>Ğäliäsğar</forename>
+            <surname>Kamal</surname>
           </persName>
           <idno type="wikidata">Q2497099</idno>
         </author>
