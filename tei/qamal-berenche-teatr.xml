@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="tat">
   <teiHeader>
     <fileDesc>
@@ -8,7 +8,7 @@
         <title type="main">Беренче театр</title>
         <title type="main" xml:lang="eng">First Theatre</title>
         <title type="sub">Комедия 1 пәрдәдә</title>
-        <title type="sub" xml:lang="rus">Comedy in 1 Act</title>
+        <title type="sub" xml:lang="eng">Comedy in 1 Act</title>
         <author>
           <persName>
             <forename>Галиәсгар</forename>
