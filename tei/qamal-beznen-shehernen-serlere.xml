@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="tat">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tat000003" xml:lang="tat">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,14 +23,12 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="dracor" xml:base="https://dracor.org/id/">tat000003</idno>
         <availability>
           <licence>
             <ab>CC0 1.0</ab>
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q78598039</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -39,12 +37,6 @@
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
-          <bibl type="originalSource">
-            <title/>
-            <date type="print"/>
-            <date type="premiere"/>
-            <date type="written" when="1911"/>
-          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -114,6 +106,16 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1911">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/tat000003" passive="http://www.wikidata.org/entity/Q78598039"/>
+    </listRelation>
+  </standOff>
   <text>
     <front>
       <docTitle>
