@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tat000002" xml:lang="tat">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tat000002" xml:lang="tt">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Кайниш</title>
-        <title xml:lang="eng">Qayniş</title>
+        <title xml:lang="en">Qayniş</title>
         <title type="sub">Пьеса 1 пәрдәдә 2 манзарада (картинада)</title>
-        <title type="sub" xml:lang="eng">Play in One Act and Two Scenes (Pictures)</title>
+        <title type="sub" xml:lang="en">Play in One Act and Two Scenes (Pictures)</title>
         <author>
           <persName>
             <forename>Галиәсгар</forename>
             <surname>Камал</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Ğäliäsğar</forename>
             <surname>Kamal</surname>
           </persName>
