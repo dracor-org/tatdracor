@@ -5,8 +5,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Беренче театр</title>
-        <title type="main" xml:lang="eng">First Theatre</title>
+        <title>Беренче театр</title>
+        <title xml:lang="eng">First Theatre</title>
         <title type="sub">Комедия 1 пәрдәдә</title>
         <title type="sub" xml:lang="eng">Comedy in 1 Act</title>
         <author>
